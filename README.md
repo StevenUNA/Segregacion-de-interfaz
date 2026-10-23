@@ -3,6 +3,6 @@
 
 Se crean clases abstractas  
 
-Las demás clases heredan solo las clases necesarias para su funcionamiento.  
+Las demás clases heredan solo las clases necesarias para su funcionamiento.  Se crean clases con funcionalidades concretas.
 
 No heredan métodos ni clases que no necesiten.
